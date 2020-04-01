@@ -182,5 +182,5 @@ void tree::Pass_Count(int &Pass, int employee, node *CurBoss, stack<int> s)
 
 void main()
 {
-	//Fuck it tomorrow!
+	// Do it tomorrow!
 }
